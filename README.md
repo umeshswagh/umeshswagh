@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Umesh S.Wagh
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Full Stack JavaScript Web Development
+- 🌱 Full Stack JavaScript Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me umeshjmv@gmail.com
 
