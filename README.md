@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Umesh S.Wagh
 - 👀 I’m interested in Front-end
 - 🌱 Full Stack JavaScript Web Developer
-- 💞️ I’m looking to collaborate on ...
+- 📝 Blog https://umeshwagh.hashnode.dev/
+- 💬 HTML, Css, Wordpress, TailwindCSS, JavaScript, Reactjs, Express.js, Node.js
 - 📫 How to reach me umeshjmv@gmail.com
 
 <!---
